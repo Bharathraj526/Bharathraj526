@@ -2,7 +2,7 @@
 
 Java Full Stack Developer
 
-<img src="profile.png" width="200">
+<img src="BharathRajPhoto.png" width="200">
 
 ## Skills
 - Java
